@@ -1,1 +1,2 @@
-Basic Todo APP
+Basic Todo APP using Flask, Python
+ 
